@@ -8,9 +8,8 @@ Contact Page: A simple contact form and ways to get in touch.
 
 The website is lightweight, mobile-friendly, and easy to customize. It's a beginner-friendly project focused on practicing web structure and styling using only HTML and basic CSS.
 
-🛠️ Technologies Used
+Technologies Used
 HTML5
-
 CSS3
 
 Features
